@@ -15,7 +15,7 @@ number:
     name: 'Puls rate - imp/kWh'
     optimistic: true
     mode: box
-    min_value: 100
+    min_value: 10
     max_value: 10000
     step: 100
     restore_value: yes
